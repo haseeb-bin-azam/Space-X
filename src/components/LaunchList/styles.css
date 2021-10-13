@@ -1,0 +1,16 @@
+.launch-card{
+  background-color: black !important;
+}
+
+.launch-image{
+  width: 100%;
+  height: 200px;
+}
+
+.card-body {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px
+}

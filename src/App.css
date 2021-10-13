@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  min-height: 100vh;
+}
+
+.logo {
+  width: 45%;
+}
+
+@media(max-width: 1199px){
+  .logo{
+    width: 60%;
+  }
+}
+
+@media(max-width: 1199px){
+  .logo{
+    width: 80%;
+  }
+}
